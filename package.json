@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/rbackbone/appEvalua2#readme",
   "dependencies": {
-    "@hapi/hapi": "^20.0.1"
+    "@hapi/hapi": "^20.0.1",
+    "mongoose": "^5.10.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
